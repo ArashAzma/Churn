@@ -52,7 +52,7 @@ After removing null data, I removed features that didn't affect the target and r
 
 ## Model Pipeline
 
-I implemented several machine learning models and compared their performance:
+I implemented several machine learning models for example I **added PCA** for logistic regression and SVC pipeline to get better results and compared their performance:
 
 1. Linear Discriminant Analysis (LDA)
 2. Support Vector Classifier (SVC)
